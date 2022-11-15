@@ -1,0 +1,19 @@
+{
+    "vscode-janus-debug.uploadOnSave": [
+        "passport-upload",
+        "weather"
+    ],
+    "vscode-janus-debug.uploadManually": [
+        "index"
+    ],
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "CPS_DB",
+            "group": "STUDENT",
+            "database": "C:\\Users\\Royal Davas\\Desktop\\Seasonal photo calendar1.xlsx"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}

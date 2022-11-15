@@ -1,0 +1,15 @@
+{
+  "name": "cps-website",
+  "version": "1.0.0",
+  "description": "An assignment where we have to create a webiste using HTML, CSS and other technologies that we need.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sqlite3": "^5.1.2"
+  }
+}
